@@ -3,12 +3,10 @@
   "id": "meteor-client",
   "version": "${version}",
 
-  "name": "Meteor Client",
+  "name": "Noob Client",
   "description": "Based utility mod.",
   "authors": [
-    "MineGame159",
-    "squidoodly",
-    "seasnail"
+    "Noobplayer77777"
   ],
   "contact": {
     "homepage": "https://meteorclient.com",
@@ -23,7 +21,7 @@
   "environment": "client",
   "entrypoints": {
     "client": [
-      "minegame159.meteorclient.MeteorClient"
+      "noobplayer77777.meteorclient.MeteorClient"
     ]
   },
   "mixins": [
@@ -31,7 +29,7 @@
     "meteor-client-sodium.mixins.json"
   ],
 
-  "accessWidener": "meteor-client.accesswidener",
+  "accessWidener": "Noob-client.accesswidener",
 
   "custom": {
     "meteor-client:devbuild": "@devbuild@"
