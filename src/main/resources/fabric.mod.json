@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "meteor-client",
+  "id": "noob-client",
   "version": "${version}",
 
   "name": "Noob Client",
